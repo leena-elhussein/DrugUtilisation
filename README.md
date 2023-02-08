@@ -13,8 +13,7 @@ coverage](https://codecov.io/gh/darwin-eu/DrugUtilisation/branch/main/graph/badg
 ## WARNING: This package is under development.
 
 - [addDailyDose](https://github.com/darwin-eu/DrugUtilisation/R/addDailyDose.R)
-  function has been only tested for tablets. It is not recommended its
-  use for other kind of drugs.
+  function has been only tested for tablets. Do not use for other kind of drugs.
 
 - Some of the functions that are currently part of this package may be
   deprecated in the near future or moved to other under development
