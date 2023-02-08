@@ -12,7 +12,7 @@ coverage](https://codecov.io/gh/darwin-eu/DrugUtilisation/branch/main/graph/badg
 
 ## WARNING: This package is under development.
 
-- [addDailyDose](https://github.com/darwin-eu/DrugUtilisation/R/addDailyDose.R)
+- [addDailyDose](https://github.com/darwin-eu/DrugUtilisation/blob/main/R/addDailyDose.R)
   function has been only tested for tablets. Do not use for other kind of drugs.
 
 - Some of the functions that are currently part of this package may be
@@ -20,11 +20,11 @@ coverage](https://codecov.io/gh/darwin-eu/DrugUtilisation/branch/main/graph/badg
   packages.
 
 - [Cohort
-  building](https://github.com/darwin-eu/DrugUtilisation/R/generateDrugUtilisationCohort.R)
+  building](https://github.com/darwin-eu/DrugUtilisation/blob/main/R/generateDrugUtilisationCohort.R)
   based on drug concept sets or ingredients worked for previous studies.
 
 - It is recommended to write to the
-  [authors](https://github.com/darwin-eu/DrugUtilisation/DESCRIPTION) of
+  [authors](https://github.com/darwin-eu/DrugUtilisation/blob/main/DESCRIPTION) of
   the package before using it.
 
 - Estimated time for final release: **June 2023**.
